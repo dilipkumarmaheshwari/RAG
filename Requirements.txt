@@ -1,8 +1,0 @@
-langchain
-langchain-community
-pypdf
-faiss-cpu
-sentence-transformers
-openllama
-streamlit
-Chroma
